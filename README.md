@@ -6,11 +6,17 @@ These are my favorite Vim commands
 
 esc - switch command mode 
 i - switch insert mode 
+
 a - switch to insert mode, but AFTER cursor, not before it 
+
 I - switch to insert mode and move cursor to beginning of line 
+
 A - switch to insert mode and move cursor to end of line 
+
 o - switch to insert mode and create a blank line below the current one 
+
 O - switch to insert mode and create a blank line above the current one 
+
 
 esc + 
 	:q! - quit without saving
