@@ -53,6 +53,7 @@ esc +
 		CTRL+w - switch from terminal to vim and back
 	zz - when you're at the bottom of the screen, this will add a bunch of virtual lines so the lowest text in the file is not at the very bottom of the screen
 	CTRL+E - similar to zz, but only adds one virtual line at a time
+	g CTRL+g - gives word count
 	
 	combos
 		dd - delete entire line
